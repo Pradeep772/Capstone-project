@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Chinese Rocks
+Author: Typodermic
+Url: http://www.fontsquirrel.com/fonts/chinese-rocks
+
+Font: Edmunds
+Author: Larabie Fonts
+Url: http://www.fontsquirrel.com/fonts/edmunds
+
+Font: Lobster
+Author: Impallari Type
+Url: http://www.fontsquirrel.com/fonts/lobster

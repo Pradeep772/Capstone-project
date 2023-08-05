@@ -1,0 +1,333 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+    height: 100vh;
+    width: 100vw;
+    /* display: flex;
+    justify-content: center;
+    align-items: center ; */
+
+} 
+header{
+    margin-left:10px ;
+    margin-right: 10px;
+    height: 50px;
+    background-color: aliceblue;
+}
+#a{
+
+
+    padding-top: 10px;
+    padding-left: 10%;
+    color: gray;
+}
+#b{
+    margin-left:10px ;
+    margin-right: 10px;
+    background-color: bisque;
+    height: 600px;
+    width: 100wh;
+    
+}
+#c{
+    margin: 50px;
+    height: 500px;
+    width: 46vw;
+}
+.a{
+    height: 500px;
+    width: 46vw;
+    float: left;
+}
+.b{
+    padding-top:200px;
+    height: 500px;
+    width: 40vw;
+    float: right;
+}
+#d{
+    text-align: center;
+    
+    color: rgba(0, 0, 139, 0.575);
+}
+P{
+    padding-top:80px;
+    
+    margin-bottom: 20px;
+}
+input{
+    border: 1px solid dimgrey;
+    border-radius: 20px;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    color: aliceblue;
+    background-color: dimgray;
+}
+#e{
+    margin-left:10px ;
+    margin-right: 10px;
+    margin-top: 50px;
+    height: 500px;
+    width: 100vw;
+    text-align: center;
+    align-items: center;
+}
+.c{
+    margin-top: 50px;
+    height: 450px;
+    margin-right: 40px;
+    width: 20%;
+    margin-left: 300px;
+    border-radius: 20px;
+    background-color: bisque;
+    float: left;
+}
+.d{
+    margin-top: 50px;
+    height: 450px;
+    width: 20%;
+    border-radius: 20px;
+    background-color: bisque;
+    float: left;
+    
+
+}
+.e{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    height: 450px;
+    width: 20%;
+    border-radius: 20px;
+    background-color: bisque;
+    margin-right: 300px;
+    float: right;
+}
+.f{
+    height: 150px;
+    width: 100%;
+}
+.g{
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    
+
+}
+#aa{
+    padding-top: 30px;
+    font-size: 100px;
+}
+#f{
+    margin-top: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 700px;
+    width: 100vw;
+    background-image: url(/image/front-view-wrapped-gifts-assortment.jpg);
+    background-size: contain;
+}
+.h{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    left: 60%;
+    background-color: aliceblue;
+    border-radius: 15%;
+    height: 300px;
+    width: 25%;
+}
+#dd{
+    padding-top:400px; 
+    color: darkblue;
+}
+.aa{
+    height: 500px;
+    width: 48vw;
+    float: left;
+}
+.p{
+    padding-left: 200px;
+    color: silver;
+    text-align: justify;
+}
+.bb{
+    height: 400px;
+    width: 40vw;
+    float: right;
+    background-color: bisque;
+    border-radius: 20%;
+    margin-top: 50px;
+    margin-right: 50px;
+    color: silver;
+}
+#z{
+    height: 200px;
+    border-radius: 20%;
+}
+#y{
+    height: 200px;;
+    border-radius: 20%;
+}
+#bb{
+    height: 200px;
+    width: 20vw;
+    float: left;
+    text-align: center;
+}
+#cc{
+    height: 200px;
+    width: 19.8vw;
+    float: right;
+    text-align: center;
+}
+h2{
+    padding-top: 20px;
+    color: darkblue;
+}
+
+.i{
+    margin-top: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 600px;
+    width: 100vw;
+    background-color: bisque;
+}
+.il{
+    height: 600px;
+    width: 60vw;
+    float: left;
+}
+.ir{
+    height: 600px;
+    width: 40vw;
+    float: right;
+
+
+}
+#ild{
+    height: 400px;
+    width: 40vw;
+    border-radius: 10%;
+    background-image: url(/image/great-job-good-job-sticker-collection/5272436.jpg);
+    background-size: cover;
+    background-color: aliceblue;
+     position: relative;
+    bottom: 300px;
+    left: 10vw;
+}
+#ildd{
+    height: 300px;
+    width: 30vw;
+    border-radius: 10%;
+    background-color: darkblue;
+     position: relative;
+    left: 70%;
+    top: 70%; 
+}
+#ildds{
+    position: relative;
+    top: 50px;
+    left: 20px;
+
+    color:lightblue;
+    font-size: 50px;
+}
+#irp{
+    margin: 0;
+    padding:0;
+    padding-top:300px;
+    margin-bottom: 0px;
+}
+#j{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 700px;
+    width: 100vw;
+    background-image: url(/image/workers-giving-ideas-new-project.jpg);
+    background-size: contain;
+    margin-bottom: 10px;
+}
+#l{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 1250px;
+    width: 100vw;
+    text-align: center;
+
+}
+#lu{
+    height:150px;
+    width:100vw;
+
+}
+#ld{
+    height: 550px;
+    width:100vw;
+    padding-top: 50px;
+    padding-left: 15%;
+    text-align: center;
+}
+td{
+   height: 300px;
+   width: 350px;
+   background-color: black; 
+}
+table{
+    margin-bottom: 50px;
+}
+#m{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 650px;
+    width: 100vw;
+    
+}
+#ml{
+    height: 700px;
+    width: 50vw;
+    float: left;
+}
+#mr{
+    height: 700px;
+    width: 50vw;
+    float: right;
+    text-align: center;
+}
+#mlo{
+    height: 600px;
+    width: 30vw;
+    background-color:blanchedalmond;
+}
+#mli{
+height: 500px;
+border-radius: 10%;
+width:20vw ;
+background-color: aliceblue;
+background-image: url(/image/portrait-beautiful-woman-street-with-her-arms-crossed-her-chest_668450-121.jpg);
+background-size: cover;
+position: relative;
+top:10%;
+left: 50%;
+}
+ #mrin{
+    padding-top:px;
+    margin-top: 50px;
+    width: 50vw;
+    background-attachment: fixed;
+    background-color: aliceblue;
+    text-align: center;
+}
+#mrinb{
+margin-top:100px ;
+} 
+footer{
+    background-color: gray;
+    color: aliceblue;
+    text-align: center;
+}
